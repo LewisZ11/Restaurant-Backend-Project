@@ -2,6 +2,10 @@
 
 This project is mainly a restaurant management system.
 
+See the link.
+[Link is](https://www.youtube.com/watch?v=xwU5ItA-lp8)
+Same Business Logic but with some different implementations.
+
 This project is designed for restaurant manager to 
 
 - manage dish category
