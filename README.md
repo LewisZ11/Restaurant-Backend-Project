@@ -3,7 +3,7 @@
 This project is mainly a restaurant management system.
 
 See the link.
-[Link is](https://www.youtube.com/watch?v=xwU5ItA-lp8)
+[Link](https://www.youtube.com/watch?v=xwU5ItA-lp8)
 Same Business Logic but with some different implementations.
 
 This project is designed for restaurant manager to 
@@ -17,11 +17,8 @@ Although this project is mainly designed for restaurant managers, I also add a r
 
 The role for customer only has the right to generate the order and view bills. 
 
-![截屏2023-03-20 上午1.17.34](/Users/zhangyibo/Desktop/截屏2023-03-20 上午1.17.34.png)
 
-The website is
-
-http://restaurant-project-lzw-frontend.s3-website.us-east-2.amazonaws.com/
+[website](http://restaurant-project-lzw-frontend.s3-website.us-east-2.amazonaws.com/)
 
 
 
